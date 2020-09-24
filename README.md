@@ -1,3 +1,7 @@
+# Docker version
+- docker v.19.03.12
+- docker-compose v.1.27.2
+
 # How to start
 `docker-compose up -d`
 

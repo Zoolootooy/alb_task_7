@@ -24,7 +24,7 @@ If you go to `localhost:10080/` you will see the index page with phpinfo.
 - no pass
 
 # App
-- PHP v. 7.3-fpm
+- PHP v. 7.2-fpm
 - config file is located at `php/local.ini`
 
 # Webserver

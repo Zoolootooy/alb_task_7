@@ -24,5 +24,6 @@ If you go to `localhost:10080/` you will see the index page with phpinfo.
 - config file is located at `php/local.ini`
 
 # Webserver
+- v. nginx:alpine
 - root folder is `/var/www/public`
 - config file is located at `nginx/conf.d/app.conf`
